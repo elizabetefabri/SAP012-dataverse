@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Inika";
+  src: url("./fonts/Inika-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("./fonts/Inika-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+ background-color: #F7F7F7;
+}
+
+header {
+  background: url("./images/banner-500x.png")lightgray 50% / cover no-repeat;
+  display: flex;
+  height: 500px;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+
+.container-h1  h1 {
+  font-family: 'Inika', serif;
+  font-size: 36px;
+  color: #1E1E1E;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  font-family: 'Inika', serif;
+  font-size: 30px;
+  color: #1E1E1E;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  margin: 35px;
+  padding: 50px;
+  background-color: #ffffff;
+  border-radius: 30px 30px 0px 0px;
+}
+
+.container__section, .ordenacao {
+  font-size: 26px;
+  color: #1E1E1E;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+select{
+  font-size: 20px;
+  color: #1E1E1E;
+  border: solid #0f2a28 1px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+select:focus {
+  outline: none;
+}
+
+button {
+  background-color: #0F2A28;
+  color: #ffffff;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover{
+
+}
+
+/* Estilização do Header */
+
+
+
+
+/* Estilização do Main */
+
+/* Estilização do Header */
+
+/* Estilização do Footer */
