@@ -1,378 +1,362 @@
 export default [
-  {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
-    "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
-    }
-  },
-  {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
-    "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
-    }
-  },
-  {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
-    "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
-    }
-  },
-  {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
-    "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
-    }
-  },
-  {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
-    "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
-  },
-  {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
-    "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
-  },
-  {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
-    "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
-    }
-  },
-  {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
-    "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
-    }
-  },
-  {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
-    "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
-    }
-  },
-  {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
-    "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
-    }
-  },
-  {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
-    "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
-    }
-  },
-  {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
-    "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
-    }
-  },
-  {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
-    "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
-    }
-  },
-  {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
-    "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
-    }
-  },
-  {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
-    }
-  },
-  {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
-    "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
-    }
-  },
-  {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
-    "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
-    }
-  },
-  {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
-    "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
-    }
-  },
-  {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
-    },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
-    }
-  },
-  {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
-    "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
-    },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
-    }
-  },
-  {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
-    "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
-    }
-  },
-  {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
-    "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
-    }
-  },
-  {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
-    "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
-    },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
-    }
-  },
-  {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
-    "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
-    },
-    "extraInfo": {
-      "imageSource": ""
-    }
+//01
+{
+  "id": "cafe-arabica",
+  "name": "Café Arábica",
+  "shortDescription": "Explore a elegância do Arábica, conhecido por suas notas suaves e complexas.",
+  "description": "O termo 'café 100% Arábica' se refere a um café feito exclusivamente a partir de grãos de café Arábica. Existem duas espécies principais de café, a Arábica e a Robusta, e a Arábica é considerada uma variedade de maior qualidade e mais suave. A qualidade do café Arábica está diretamente ligada à altitude do local de cultivo, geralmente acima de 800 metros. Cultivado nas montanhas da Etiópia, o Arábica conquista paladares com aromas complexos. No Brasil, é produzido principalmente no centro-oeste, sudeste e sul. Com baixo teor de cafeína, é uma escolha refinada.",
+  "imageUrl": "https://universo.agrogalaxy.com.br/wp-content/uploads/2022/01/Classificacao-do-Cafe-os-6-tipos-de-graos-e-suas-caracteristicas-Arabica.png",
+  "facts": {
+    "regionLocation": "Montanhas da Etiópia",
+    "producerCoffee": "Centro-oeste, sudeste e sul do Brasil",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
   }
+},
+//02
+{
+  "id": "cafe-robusta",
+  "name": "Café Robusta",
+  "shortDescription": "O Robusta é conhecido por ter um forte amargor.",
+  "description": "O grão de café Robusta é resistente e adaptável, sendo amplamente cultivado no mundo. Originário do Vietnã, no Brasil é encontrado principalmente nas regiões sudeste, nordeste e norte. Com o dobro de cafeína em comparação ao Arábica, o Robusta é apreciado por sua força. Variedades especiais são cobiçadas, garantindo cafés de alta qualidade. Ele não precisa ser cultivado em regiões com alta altitude e possui um custo de produção menor quando comparado ao Arábica. Por isso, ele acaba sendo mais utilizado e às vezes até misturado com os grãos Arábica. O Robusta oferece uma jornada de sabor ousada.",
+  "imageUrl": "https://universo.agrogalaxy.com.br/wp-content/uploads/2022/01/Classificacao-do-Cafe-os-6-tipos-de-graos-e-suas-caracteristicas-Robusta.png",
+  "facts": {
+    "regionLocation": "Vietnã",
+    "producerCoffee": "Sudeste, nordeste e norte do Brasil",
+    "anoColheita": 2,
+    "grupoGenetico": "Canephora",
+    "intensidadeCoffe": "Instensa"
+  }
+},
+//03
+{
+  "id": "cafe-liberica",
+  "name": "Café Liberica",
+  "shortDescription": "Caráter africano com notas frutadas.",
+  "description": "O Coffea Liberica é um outro tipo de planta de café, além do Arábica e Robusta, que representa apenas 1% da produção mundial de café. Original da Libéria – daí o nome – é uma planta mais resistente à pragas que os demais tipos. Descubra o caráter único do Liberica, originário da África, com complexidades e notas frutadas distintas. Cultivado predominantemente na África, o café Liberica apresenta um perfil de sabor singular. Cafeína mais elevada do mundo, o Liberica tem 8,5% de cafeína.",
+  "imageUrl": "https://primerocafe.com.mx/wp-content/uploads/2022/11/liberica1.jpeg",
+  "facts": {
+    "regionLocation": "África",
+    "producerCoffee": "Regiões africanas",
+    "anoColheita": 3,
+    "grupoGenetico": "Liberica",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//04
+{
+  "id": "cafe-excelsa",
+  "name": "Café Excelsa",
+  "shortDescription": "Exótico, frutado e amadeirado.",
+  "description": "O grão de café Excelsa, também conhecido como Coffea Liberica var. Dewevrei, é uma espécie única que contribui para a diversidade de cafés. Originário do sudeste asiático, o Excelsa destaca-se por seu perfil de sabor exótico, frutado e amadeirado. Este café é muitas vezes utilizado para adicionar complexidade em blends. Os grãos de café Excelsa são maiores e mais alongados em comparação com outras variedades. Descubra a singularidade do café Excelsa e aprecie a riqueza de suas notas. Cafeína mais elevada do mundo, o Excelsa tem 8,5% de cafeína.",
+  "imageUrl": "https://www.cafeologia.com.br/wp-content/uploads/2019/06/Cafeologia-Tipos-de-Cafe-Diferentes-33.jpg",
+  "facts": {
+    "regionLocation": "Sudeste Asiático",
+    "producerCoffee": "Principalmente nas regiões africanas",
+    "anoColheita": 2,
+    "grupoGenetico": "Excelsa",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//05
+{
+  "id": "cafe-bourbon",
+  "name": "Café Bourbon",
+  "shortDescription": "Originário de Madagascar, o Bourbon destaca-se por sua suavidade e sabor rico, com nuances de caramelo.",
+  "description": "O café Bourbon é uma variedade de café arábica que apresenta características distintas em relação a outras variedades de café. Ele apresenta duas sub-variedades que são o Bourbon Amarelo e o Vermelho. O Bourbon Amarelo e o Vermelho são superiores a outros tipos de graos. O grao mais vendido é o Bourbon Amarelo. O grao mais consumido é o Bourbon Vermelho. Por coincidência ou não, a origem deste grão remonta uma ilha chamada Bourbon. Segundo a própria ABIC, por volta de 1715, o rei francês Louis XIV havia recebido de presente de alguns holandeses.",
+  "imageUrl": "https://universo.agrogalaxy.com.br/wp-content/uploads/2022/01/Classificacao-do-Cafe-os-6-tipos-de-graos-e-suas-caracteristicas-Bourbon.png",
+  "facts": {
+    "regionLocation": "Madagascar",
+    "producerCoffee": "Madagascar",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//06
+{
+  "id": "cafe-typica",
+  "name": "Café Typica",
+  "shortDescription": "Typica é venerado por sua herança, proporcionando uma xícara equilibrada com sabores suaves e perfil clássico.",
+  "description": "O café Typica é conhecido por seu fruto alongado e sabor marcante. Cultivado entre 1650 e 1900 metros acima do nível do mar, apresenta características únicas de frutas vermelhas, melaço, cremosidade e elegância. Originário da América Central, é uma escolha que valoriza a tradição. O café Peru Tunki é um excelente café com um aroma levemente floral. Apresenta alta acidez, notas encorpadas e chocolate. Café torrado 100% arábica natural. Em 2010, foi premiado pela American Specialty Coffee Association como o Melhor Café Especial do Mundo.",
+  "imageUrl": "https://perunor.com/wp-content/uploads/2020/05/Cafe-Typica.jpg",
+  "facts": {
+    "regionLocation": "América Central",
+    "producerCoffee": "Typica Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//07
+{
+  "id": "cafe-geisha",
+  "name": "Café Geisha",
+  "shortDescription": "Geisha, uma joia do Panamá, cativa com suas notas florais e corpo delicado.",
+  "description": "A planta de café Geisha foi descoberta na Etiópia, em 1931. Faz tempo, não é? Chamada de “Geishinha” para os íntimos, ela só se popularizou em 2004, quando foi testada no terroir do Paraná. Ela gosta de carinho e atenção, o que faz a produção ser bastante custosa. O café Geisha, originário da Etiópia, floresceu na América Latina, especialmente no Panamá. Embora seu cultivo seja desafiador devido ao baixo rendimento, a província de Chiriquí, no Panamá, destaca-se como produtora premium exportando para diversos países. A bebida é delicada, apresentando aromas florais e notas frutadas.",
+  "imageUrl": "https://perunor.com/s/img/wp-content/uploads/2023/10/0_1-1024x898.png",
+  "facts": {
+    "regionLocation": "Panamá",
+    "producerCoffee": "Geisha Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//08
+{
+  "id": "cafe-blue-mountain",
+  "name": "Café Blue Mountain",
+  "shortDescription": "Blue Mountain, da Jamaica, é um tesouro raro com sabor suave, corpo equilibrado e notas delicadas.",
+  "description": "Produzido em uma propriedade na Jamaica, oferece um sabor robusto e picante de caramelo e chocolate com um final suave e delicioso. Esta propriedade é reconhecida como amiga do ambiente na Jamaica. A variedade de cafés gourmet mais ilustre do mundo. Provém de cultivos em solo vulcânico que atingem 2000 metros acima do nível do mar. É cultivada nas regiões mais altas da ilha que são chamadas de Blue Mountain. Seus preciosos grãos verde-azulados são preservados em barris de carvalho tradicionais, assim como os preciosos rums do Caribe. Na degustação deste licor e notas perfumadas de tabaco e chocolate.",
+  "imageUrl": "https://www.sandals.com/blog/content/images/2023/04/blue-mountain-coffee-beans.jpg",
+  "facts": {
+    "regionLocation": "Jamaica",
+    "producerCoffee": "Blue Mountain Coffee",
+    "anoColheita": 4,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//09
+{
+  "id": "cafe-caturra",
+  "name": "Café Caturra",
+  "shortDescription": "Caturra, uma mutação natural da variedade Bourbon, é conhecida por sua planta menor e frutos suculentos.",
+  "description": "Caturra é uma mutação natural da variedade Bourbon, com planta anã. Seus frutos suculentos, como maçã vermelha e tangerina, são distintos e deliciosos. O Café Caturra é produzido a partir de grãos cuidadosamente selecionados das melhores regiões do Brasil, passando por um processo de torrefação e moagem fina. Acredita-se que ele vem da mutação da variedade Bourbon. O resultado é um café suave, aromático e tradicional. O café Caturra é uma variedade brasileira originária da zona limitrofe de Minas Gerais com o Espírito Santo.",
+  "imageUrl": "https://perunor.com/wp-content/uploads/2020/05/Cafe-Catimor.jpg",
+  "facts": {
+    "regionLocation": "América Central",
+    "producerCoffee": "Caturra Coffee",
+    "anoColheita": 2,
+    "grupoGenetico": "Bourbon",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//10
+{
+  "id": "cafe-peaberry",
+  "name": "Café Peaberry",
+  "shortDescription": "Peaberry, conhecido por seus grãos únicos, oferece uma xícara encorpada com sabores intensos.",
+  "description": "O Café Peaberry destaca-se por ter apenas um grão dentro da cereja do café, resultando em um sabor mais concentrado e doce. Peaberry Coffee foi uma cadeia de cafeterias que foi iniciada em Denver, Colorado, em 1990, por Bill Tointon. O conceito da loja foi baseado em servir uma variedade de cafés de todo o mundo e torrar em Denver. Foi categorizado em um formato de menu chamado 'Peaberry Profile System'. Normalmente os grãos de café crescem de dois para cada fruta, achatados uns contra os outros como metades de um amendoim.",
+  "imageUrl": "https://perfectdailygrind.com/wp-content/uploads/2020/03/Peaberry-1.png",
+  "facts": {
+    "regionLocation": "Tanzânia",
+    "producerCoffee": "Peaberry Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//11
+{
+  "id": "cafe-sumatra",
+  "name": "Café Sumatra",
+  "shortDescription": "Sumatra, da Indonésia, oferece uma experiência de café robusta e terrosa.",
+  "description": "O Café Sumatra, cultivado na ilha de Sumatra, Indonésia, é reconhecido por seu sabor forte e terroso. Sua distinta ousadia torna-o um dos cafés mais famosos do mundo. Um café de corpo intenso, aroma e sabor terroso e deliciosamente encorpado. Produzido com grãos da região Ásia/ Pacífico. Ele é encorpado e amanteigado, praticamente sem acidez, de modo que a intensidade e o sabor do café se prolongam na boca. Os produtores de café tiram a casca do fruto enquanto ele ainda está úmido. O sabor do cafezinho é inesquecível.",
+  "imageUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_768/https://www.naturalcura.com.br/wp-content/uploads/2018/02/cafe-java-768x480.jpg",
+  "facts": {
+    "regionLocation": "Indonésia",
+    "producerCoffee": "Sumatra Coffee",
+    "anoColheita": 4,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Intenso"
+  }
+},
+//12
+{
+  "id": "cafe-ethiopian-yirgacheffe",
+  "name": "Café Ethiopian Yirgacheffe",
+  "shortDescription": "Ethiopian Yirgacheffe, da Etiópia, é conhecido por suas notas cítricas e florais.",
+  "description": "O Café Ethiopian Yirgacheffe é um dos cafés mais distintos do mundo, reconhecido por seu perfil de sabor complexo com notas cítricas e florais. Cultivado na região de Yirgacheffe, Etiópia, é considerado entre os melhores cafés do mundo. Yirgacheffe, uma das principais regiões de café na Etiópia, traz, por meio de seus diferentes sabores, a fachada de se tornar destaque sensorial na região berço do café mundial, concorrendo com os mais bem cotados cafés do mundo. Um dos mais concorrentes do mercado. ",
+  "imageUrl": "https://static.wixstatic.com/media/134945_4b6e2ef622824ec2bf7d3bdb4ed38091~mv2.jpg/v1/fill/w_500,h_750,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/134945_4b6e2ef622824ec2bf7d3bdb4ed38091~mv2.jpg",
+  "facts": {
+    "regionLocation": "Etiópia",
+    "producerCoffee": "Yirgacheffe Coffee",
+    "anoColheita": 4,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//13
+{
+  "id": "cafe-java",
+  "name": "Café Java",
+  "shortDescription": "Java, da Indonésia, é conhecido por seu sabor terroso e notas de especiarias.",
+  "description": "Famasomente conhecido como O Café Java, cultivado na ilha de Java, Indonésia, é famoso por seu sabor terroso, rico e ousado. Uma escolha distinta entre os cafés mais renomados do mundo. O Blue Java consiste em grãos de café selecionados da região de Bondowoso, no leste da ilha de Java, na Indonésia. O café é doce e suave, com sabores de chocolate, ameixa e caramelo. Já em 1696, os holandeses começaram a cultivar grãos de café na ilha de Java, na Indonésia.",
+  "imageUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_768/https://www.naturalcura.com.br/wp-content/uploads/2018/02/cafe-java-768x480.jpg",
+  "facts": {
+    "regionLocation": "Indonésia",
+    "producerCoffee": "Java Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//14
+{
+  "id": "cafe-colombian",
+  "name": "Café Colombian",
+  "shortDescription": "Colombian, conhecido por sua acidez brilhante e equilíbrio, oferece uma xícara clássica e vibrante.",
+  "description": "Colombian, renomado por sua acidez brilhante e equilíbrio, proporciona uma xícara clássica e vibrante, cultivado nas ricas terras da Colômbia. Região geográfica repleta de microclimas, a Colômbia dá origem a cafés arábica de varietais e de terroir diversificados, o que gera bebidas de sabores bem variados. A peculiaridade nos períodos de colheita, realizadas duas vezes ao ano a depender da região (tanto de abril a agosto quanto de setembro a janeiro), também interfere no perfil de sabor do grão. Em comum, baristas e apreciadores registram que os cafés colombianos são suaves e bem equilibrados. ",
+  "imageUrl": "https://i.pinimg.com/564x/ff/e3/24/ffe324ada85f757d695abb03cac7ed12.jpg",
+  "facts": {
+    "regionLocation": "Colômbia",
+    "producerCoffee": "Colombian Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//15
+{
+  "id": "cafe-burundi-bourbon",
+  "name": "Café Burundi Bourbon",
+  "shortDescription": "Burundi Bourbon, da África, é conhecido por seu perfil cítrico e notas florais.",
+  "description": "O Café Burundi Bourbon é um café africano conhecido por seu sabor cítrico e notas florais. Cultivado na região de Burundi, é feito a partir da variedade Bourbon, proporcionando cafés de alta qualidade com sabores complexos e ricos. Um fino café de origem única do Burundi apresenta sabor limpo e delicado, com corpo rico e acidez de acordo com as notas de degustação. Este café do Burundi tem um sabor doce de frutos silvestres e notas florais com aromas de frutos silvestres. O sabor doce e limpo, juntamente com outras características do café do Burundi.",
+  "imageUrl": "https://blog.cafes-pfaff.com/wp-content/uploads/ceuillette-cafe-au-burundi.jpg",
+  "facts": {
+    "regionLocation": "Burundi",
+    "producerCoffee": "Burundi Bourbon Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Bourbon",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//16
+{
+  "id": "cafe-costarican-tarrazu",
+  "name": "Café Costa Rican Tarrazú",
+  "shortDescription": "Costa Rican Tarrazú, da Costa Rica, é conhecido por seu sabor complexo e acidez brilhante.",
+  "description": "O Café Costa Rican Tarrazú, da Costa Rica, é reconhecido por seu sabor complexo e acidez brilhante. Cultivado na região de Tarrazú, famosa por produzir alguns dos melhores cafés do mundo, este café apresenta um perfil frutado, brilhante e complexo. As condições climáticas e geográficas aliadas à riqueza do solo vulcânico rico e bem drenado oferecem um excelente habitat natural para o cultivo.  O café Tarrazu é encorpado, leve, equilibrado, delicado e seu perfume magnífico é um dos melhores do mundo. A torra média confere à xícara de café corpo, fragrância e doçura.",
+  "imageUrl": "https://jameskaiser.com/wp-content/uploads/2020/09/Costa-Rica-Prints-18.jpg",
+  "facts": {
+    "regionLocation": "Costa Rica",
+    "producerCoffee": "Tarrazú Coffee",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//17
+{
+  "id": "cafe-stenophylla",
+  "name": "Café Stenophylla",
+  "shortDescription": "A robustez do Stenophylla proporciona uma experiência intensa.",
+  "description": "Coffea Stenophylla, também conhecido como Café Stenophylla, é uma espécie de café que oferece uma experiência intensa e robusta. Originário da África Ocidental, o Stenophylla é conhecido por sua resistência a doenças e pragas. Com um sabor único e encorpado, este café possui características distintas que o diferenciam. Descubra a robustez do café Stenophylla e mergulhe em uma experiência intensa de sabor. Este cafeé tem sabor limpo e doce, corpo equilibrado, acidez brilhante e notas florais.  Coffea Stenophylla foi originalmente encontrada em Serra Leoa, país da África Ocidental, e se espalhou pelas nações vizinhas.",
+  "imageUrl": "https://www.craftcoffeeguru.com/wp-content/uploads/2021/05/rsz_c_stenophylla_g_don_ivory_coast_%E2%95%95_e_couturon_ird-1024x768.jpg",
+  "facts": {
+    "regionLocation": "África Ocidental",
+    "producerCoffee": "Principalmente nas regiões africanas",
+    "anoColheita": 3,
+    "grupoGenetico": "Stenophylla",
+    "intensidadeCoffe": "Intenso"
+  }
+},
+//18
+{
+  "id": "cafe-peruvian-tunki",
+  "name": "Café Peruvian Tunki",
+  "shortDescription": "Peruvian Tunki, do Peru, cativa com suas notas florais, acidez brilhante e corpo equilibrado.",
+  "description": "Os planaltos e zonas altas do Brasil e da Colômbia mostraram que os grãos de café se desenvolveram para obter um sabor extraordinário. Caldas e Tolima, na Colômbia, e todo o sudeste do Brasil produzem a maior parte das exportações, mas há uma pequena área a sudeste do Peru, a província de Sandia, onde é cultivado um grão de café verdadeiramente requintado. O sabor do cafezinho é inesquecível. Um grão de cafezinho de qualidade e uma xícara de cafezinho inesquecível. A torra média confere à xícara de cafezinho corpo, fragrência e doçura.",
+  "imageUrl": "https://estilosdevida.bolsamania.com/wp-content/uploads/2014/10/cafe-organico.jpg",
+  "facts": {
+    "regionLocation": "Brazil e Colombia",
+    "producerCoffee": "Produtor",
+    "anoColheita": "Ano",
+    "grupoGenetico": "Genético",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//19
+{
+  "id": "cafe-yemen-mocha",
+  "name": "Café Yemen Mocha",
+  "shortDescription": "Saboreie o sabor intenso do Yemen Mocha.",
+  "description": "O café é produzido nas montanhas Haraaz com métodos antigos, resultando em café natural processado a seco. Terraços íngremes e rochosos foram escavados nas montanhas escarpadas há séculos, para que pudessem ser cultivados. Embora não seja certificado como orgânico, o café Haraaz não utiliza fertilizantes sintéticos nem pesticidas, e todas as culturas são alimentadas pela chuva. Quase sem acesso a produtos agrícolas disponíveis comercialmente, o café é cultivado num ambiente natural, livre de poluição. Os métodos de cultivo não mudaram durante séculos. Delicioso café orgânico com sabores de chocolate amargo, figos e ameixas. ",
+  "imageUrl": "https://www.safaris-uganda.com/wp-content/uploads/2019/10/Coffee-Rwanda.jpg",
+  "facts": {
+    "regionLocation": "Terras Altas do Iêmen",
+    "producerCoffee": "Cultivadores Locais",
+    "anoColheita": 4,
+    "grupoGenetico": "Mocha",
+    "intensidadeCoffe": "Intenso"
+  }
+},
+//20
+{
+  "id": "cafe-colombian-mocha",
+  "name": "Café Colombian Mocha",
+  "shortDescription": "Experimente a tradição colombiana com o Colombian Mocha.",
+  "description": "O Café Colombian Mocha é uma expressão da tradição cafeeira colombiana, conhecido por sua acidez brilhante e equilíbrio perfeito. Cada colheita representa o compromisso com a qualidade, oferecendo uma xícara clássica e vibrante que captura a essência das plantações colombianas. Este café é um testemunho do amor e da dedicação que os produtores de café colombianos têm por sua arte. O resultado é um cafezinho inesquecível. Uma grande quandidade produzida na Colombia e no Brasil. O sabor do cafezinho é inesquecível. Um grão de cafezinho de qualidade e uma xícara de cafezinho inesquecível.",
+  "imageUrl": "https://www.safaris-uganda.com/wp-content/uploads/2019/10/Coffee-Rwanda.jpg",
+  "facts": {
+    "regionLocation": "Colômbia",
+    "producerCoffee": "Caficultores Colombianos",
+    "anoColheita": 3,
+    "grupoGenetico": "Arabica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//21
+{
+  "id": "cafe-brazilian-santos",
+  "name": "Café Brazilian Santos",
+  "shortDescription": "Brazilian Santos, do Brasil, oferece uma xícara suave com notas de nozes, chocolate e um toque de doçura.",
+  "description": "O Café Brazilian Santos é cultivado nas regiões costeiras do Brasil, onde o clima e a altitude criam condições ideais para o crescimento do café. Este café é conhecido por seu sabor suave e notas de nozes e chocolate, proporcionando uma experiência de degustação agradável e doce. Cada colheita representa o compromisso com a qualidade, oferecendo uma xícara suave e deliciosa que captura a essência das plantações brasileiras. Apesar da grande quantidade de café produzido no Brasil, mais de 70% das fazendas de café no Brasil têm menos de 10 acres.",
+  "imageUrl": "https://www.atlanticacoffee.com/en/wp-content/uploads/2020/11/cafe-onix-tablet-cel.jpg",
+  "facts": {
+    "regionLocation": "Regiões costeiras do Brasil",
+    "producerCoffee": "Brasil",
+    "anoColheita": 3,
+    "grupoGenetico": "Arábica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//22
+{
+  "id": "cafe-mexican-altura",
+  "name": "Café Mexican Altura",
+  "shortDescription": "Mexican Altura, cultivado em altitudes elevadas, oferece uma xícara brilhante com notas cítricas e corpo suave.",
+  "description": "Altura é conhecida pelo seu sabor suave, sem amargor ou peso na língua! O Café Mexican Altura é cultivado nas altas montanhas do México, onde o clima e a altitude criam condições ideais para o crescimento do café. Conhecido por seu sabor suave e notas cítricas, proporciona uma experiência de degustação brilhante e agradável. O varietal Altura proporciona uma bebida suave com notas de frutas tropicais e avelãs torradas. Os grãos lavados ganham um toque levemente ácido e um final limpo que derrete igualmente bem com os grãos encorpados.",
+  "imageUrl": "https://www.safaris-uganda.com/wp-content/uploads/2019/10/Coffee-Rwanda.jpg",
+  "facts": {
+    "regionLocation": "Montanhas do México",
+    "producerCoffee": "México",
+    "anoColheita": 3,
+    "grupoGenetico": "Arábica",
+    "intensidadeCoffe": "Suave"
+  }
+},
+//23
+{
+  "id": "cafe-rwanda-abahahe",
+  "name": "Café Rwanda Abahahe",
+  "shortDescription": "Rwanda Abahahe, da África, destaca-se por suas notas florais, cítricas e um corpo sedoso.",
+  "description": "O café não é nativo de Ruanda e a origem do cultivo de café aqui pode ser rastreada até a colonização alemã. O café é um dos principais produtos de exportação de Ruanda e é cultivado ao longo das encostas do vulcão inativo Karisimbi, no Parque Nacional dos Vulcões. Ruanda possui condições favoráveis para o cultivo de café, como altitude elevada, chuvas regulares e solos vulcânicos férteis. Este café destaca-se por suas notas florais, cítricas e um corpo sedoso. [processado de forma natural, secado ao ar livre, é produzido por micro produtores que participam numa economia colaborativa da região.",
+  "imageUrl": "https://www.safaris-uganda.com/wp-content/uploads/2019/10/Coffee-Rwanda.jpg",
+  "facts": {
+    "regionLocation": "Ruanda e Angola",
+    "producerCoffee": "Ruanda",
+    "anoColheita": 3,
+    "grupoGenetico": "Arábica",
+    "intensidadeCoffe": "Médio"
+  }
+},
+//24
+{
+  "id": "cafe-new-guinea-sigri",
+  "name": "Café New Guinea Sigri",
+  "shortDescription": "Papua New Guinea Sigri oferece uma experiência exótica com notas de frutas tropicais e corpo aveludado.",
+  "description": "Os cafés Arábica de alta qualidade, como Arusha e Típica, são cultivados na plantação Sigri, onde as condições climáticas são perfeitas para o café. O controle de qualidade começa no campo, onde as cerejas do café são colhidas, lavadas à mão e secas ao sol. Os grãos também são selecionados manualmente e torrados com habilidade. Este café irá convencê-lo pelo seu aroma intenso e sabor inigualável. Situada a 1.500 metros acima do nível do mar, no Vale Wahgi, nas Terras Altas Ocidentais, esta propriedade foi fundada na década de 1950 e produz há mais de 20 anos.",
+  "imageUrl": "https://anodynecoffee.com/cdn/shop/files/PNG-SIGRI-ESTATE-AA_92bc35ff-9a64-4cd8-9bd5-46565fbbf3b1.jpg?v=1698779392&width=493",
+  "facts": {
+    "regionLocation": "Vale Wahgi, na ilha da Nova Guiné",
+    "producerCoffee": "Nova Guiné",
+    "anoColheita": 3,
+    "grupoGenetico": "Arábica",
+    "intensidadeCoffe": "Suave"
+  }
+}
 ];
