@@ -155,7 +155,7 @@ export default [
   "name": "Café Sumatra",
   "shortDescription": "Sumatra, da Indonésia, oferece uma experiência de café robusta e terrosa.",
   "description": "O Café Sumatra, cultivado na ilha de Sumatra, Indonésia, é reconhecido por seu sabor forte e terroso. Sua distinta ousadia torna-o um dos cafés mais famosos do mundo. Um café de corpo intenso, aroma e sabor terroso e deliciosamente encorpado. Produzido com grãos da região Ásia/ Pacífico. Ele é encorpado e amanteigado, praticamente sem acidez, de modo que a intensidade e o sabor do café se prolongam na boca. Os produtores de café tiram a casca do fruto enquanto ele ainda está úmido. O sabor do cafezinho é inesquecível.",
-  "imageUrl": "https://raw.githubusercontent.com/elizabetefabri/SAP012-dataverse/main/src/images/img/11-cafe-sumatra.png",
+  "imageUrl": "https://raw.githubusercontent.com/elizabetefabri/SAP012-dataverse/main/src/images/img/11-cafe-sumatra.jpg",
   "facts": {
     "regionLocation": "Indonésia",
     "producerCoffee": "Sumatra Coffee",
