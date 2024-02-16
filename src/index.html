@@ -9,8 +9,11 @@
   <body>
     <!-- Header -->
     <header>
-      <div class="container-h1">
-        <h1>Explorando o Mundo do Café</h1>
+      <div class="container__h1">
+        <h1>Coffee Dataverse
+          <img src="./images/cup.png" width="50px" height="50px" alt="">
+
+        </h1>
       </div>
     </header>
     <!-- Main -->
@@ -19,7 +22,7 @@
         <h2>Descubra os Cafés Mais Consumidos e Desperte seu Paladar para Novas Experiências</h2>
       </div>
 
-      <section class="container__section">
+      <section class="section-filters">
         <label for="filters" id="intensidade-filters" class="filters">Filtros</label>
         <select id="filters" name="intensidade-filter" data-testid="select-filter">
           <option value="tipo-intensidade" selected>Intensidade</option>
@@ -31,8 +34,8 @@
         <label for="order">Ordenar por:</label>
           <select id="order" name="search-filter">
             <option value="tipos-ordenacao">Ordenação</option>
-            <option value="desc">A Z</option>
-            <option value="asc">Z A</option>
+            <option value="desc">A - Z</option>
+            <option value="asc">Z - A</option>
           </select>
           <button id="btn-limpar" data-testid="botao-limpar">
             Limpar Filtros
