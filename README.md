@@ -28,7 +28,7 @@
       <td><img width="30px" height="30px" align="center" alt="icon check" src="./src/images/check.png"></td>
       <td>Organização do caderno de Estudo no Notion</td>
       <td align="center">
-        <a href="https://elzbieta.notion.site/Dataverse-Coffee-ab3ebd8015af4f6386312c3ff917a78c" target="_blank">
+        <a href="" target="_blank">
            <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20GitHub-252525?style=for-the-badge" width="150px">
         </a>
       </td>
