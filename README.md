@@ -68,7 +68,7 @@
       <td><img width="30px" height="30px" align="center" alt="icon check" src="./src/images/check.png"></td>
       <td>Projeto Finalizado! Confira 🎈🎉✨</td>
       <td align="center">
-        <a href="https://dataverse-coffee.netlify.app/" target="_blank">
+        <a href="https://dataverse-coffee.vercel.app/" target="_blank">
            <img align="center" alt="Botao" src="https://img.shields.io/badge/Ver%20PROJETO-252525?style=for-the-badge" width="150px">
         </a>
       </td>
